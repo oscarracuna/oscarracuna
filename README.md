@@ -1,2 +1,2 @@
-Currently learning Python and Go Lang.
+Currently learning C, Python and Go Lang.
 Cybersecurity enthusiast.
