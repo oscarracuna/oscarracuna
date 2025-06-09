@@ -1,2 +1,2 @@
-Currently learning C, Python and Go Lang.
-Cybersecurity enthusiast.
+Linux and Systems Admninistration enthusiast.
+I like Go, Powershell and Python.
